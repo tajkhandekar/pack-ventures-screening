@@ -22,4 +22,4 @@ After adding all founder names to a list for each company, I removed duplicates 
 # Future Improvements
 * Some of the founder names I collected include founders from other companies with the same name. To reduce this, I would use natural language processing and keyword frequency when scraping the company website to find keywords relating to the company, and include them in the Google search so that the results are more likely to be tailored to the company and not other companies with the same name
 * Scraping Twitter to find potential founders for a company as it is used by many people in the tech industry to share ideas and thoughts
-* Using a combination of scraping each website and SERPAPI instead of separately to be able to cross-check accuracy of founder information across both data sources 
+* Using a combination of scraping each website and SerpApi instead of separately to be able to cross-check accuracy of founder information across both data sources 
